@@ -16,17 +16,33 @@ I am a B.Tech student specializing in Internet of Things (IoT) at Madhav Institu
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/drishti_.jain05?igsh=MWY5NXQ0bGltZXR4eQ==)
+<p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/drishti-jain-97141a33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<a href="https://www.instagram.com/drishti_.jain05?igsh=MWY5NXQ0bGltZXR4eQ==" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge\&logo=pinterest\&logoColor=white)](https://pin.it/5L6yOPFOZ)
+<a href="https://www.linkedin.com/in/drishti-jain-97141a33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@drishtidrish3056)
+<a href="https://pin.it/5L6yOPFOZ" target="_blank">
+<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
 
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge\&logo=threads\&logoColor=white)](https://www.threads.com/@drishti_.jain05)
+<a href="https://www.youtube.com/@drishtidrish3056" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:drishtiijain09@gmail.com)
+<a href="https://www.threads.com/@drishti_.jain05" target="_blank">
+<img src="https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white"/>
+</a>
+
+<a href="mailto:drishtiijain09@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
