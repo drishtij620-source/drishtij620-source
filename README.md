@@ -31,7 +31,17 @@ Arduino IDE, ThingSpeak, Wokwi, Tinkercad, MATLAB
 
 ### Machine Learning
 Python, NumPy, OpenCV  
+---
 
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+
+![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-grey?style=for-the-badge)
 ---
 
 ## 📂 Projects
@@ -58,7 +68,13 @@ Automatic water heating and cooling system using temperature sensors and relay m
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drishtij620-source&show_icons=true&theme=tokyonight)
+---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drishtij620-source&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtij620-source&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me
