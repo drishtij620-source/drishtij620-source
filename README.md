@@ -1,11 +1,12 @@
-# Hi 👋 I'm Drishti Jain
+# Hi 👋 I'm Drishti Jain <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Drishti+Jain;IoT+%7C+Embedded+Systems+Enthusiast;Building+Smart+Tech+Projects" />
+</p>
+
 
 🎓 B.Tech Student in Internet of Things (IoT)
 🏫 Madhav Institute of Technology & Science, Gwalior
 
 ---
-
-## 💫 About Me
 
 ## 💫 About Me
 
@@ -31,18 +32,34 @@ I am a B.Tech student specializing in Internet of Things (IoT) at Madhav Institu
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge\&logo=python\&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-black?style=for-the-badge)
+
+![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge\&logo=powershell)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge\&logo=googlecloud)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge\&logo=powerbi)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue?style=for-the-badge\&logo=githubactions)
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-grey?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge\&logo=raspberrypi)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-grey?style=for-the-badge)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge\&logo=homeassistant)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-red?style=for-the-badge)
+![Blynk](https://img.shields.io/badge/Blynk-23C48E?style=for-the-badge)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva)
+![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge\&logo=figma)
+
 
 ---
 
