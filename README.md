@@ -7,13 +7,11 @@
 🏫 Madhav Institute of Technology & Science, Gwalior
 
 ---
-
 ## 💫 About Me
 
 I am a B.Tech student specializing in Internet of Things (IoT) at Madhav Institute of Technology & Science, Gwalior, with a strong interest in Embedded Systems, IoT, and emerging technologies. I have hands-on experience working with Arduino, ESP32, sensors, and microcontroller-based automation systems. Along with hardware development, I also work with programming languages such as C, C++, Python, and web technologies including HTML, CSS, and JavaScript. I enjoy building real-world smart systems like IoT monitoring platforms, AI-based gesture control applications, and automation solutions. Currently, I am also exploring Machine Learning and AI applications in IoT to develop intelligent and efficient smart systems.
 
 ---
-
 ## 🌐 Socials
 
 <p align="left">
@@ -76,7 +74,6 @@ I am a B.Tech student specializing in Internet of Things (IoT) at Madhav Institu
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva)
 ![Figma](https://img.shields.io/badge/Figma-orange?style=for-the-badge\&logo=figma)
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -86,10 +83,6 @@ I am a B.Tech student specializing in Internet of Things (IoT) at Madhav Institu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtij620-source\&layout=compact\&theme=tokyonight)
 
 ---
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtij620-source\&layout=compact\&theme=tokyonight\&langs_count=6)
-
 
 ## ✍️ Random Dev Quote
 
