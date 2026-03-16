@@ -88,7 +88,7 @@ I am a B.Tech student specializing in Internet of Things (IoT) at Madhav Institu
 ---
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtij620-source\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtij620-source\&layout=compact\&theme=tokyonight\&langs_count=6)
 
 
 ## ✍️ Random Dev Quote
