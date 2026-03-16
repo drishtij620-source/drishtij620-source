@@ -1,4 +1,4 @@
-# Hi 👋 I'm Drishti Jain <p align="center">
+# Drishti Jain <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Drishti+Jain;IoT+%7C+Embedded+Systems+Enthusiast;Building+Smart+Tech+Projects" />
 </p>
 
