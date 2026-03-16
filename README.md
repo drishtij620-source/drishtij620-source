@@ -67,10 +67,6 @@ Automatic water heating and cooling system using temperature sensors and relay m
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drishtij620-source&show_icons=true&theme=tokyonight)
----
-
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drishtij620-source&show_icons=true&theme=tokyonight)
 
